@@ -15,7 +15,7 @@ Approach: Steps taken to complete the task.
 
 Outcome: Summarize the results or key features implemented.
 
-About the Program
+# About the Program
 
 The Oasis Infobyte Internship is an initiative aimed at enhancing technical proficiency and hands-on project development. This repository reflects my active participation and successful completion of the program.
 
