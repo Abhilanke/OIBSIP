@@ -8,8 +8,11 @@ The Oasis Infobyte Internship Program provided an opportunity to work on various
 
 # Tasks Overview
 Task 1: [Task Name]
+
 Description: Brief description of the task.
+
 Approach: Steps taken to complete the task.
+
 Outcome: Summarize the results or key features implemented.
 
 
