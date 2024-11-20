@@ -1,5 +1,6 @@
 # Oasis Infobyte Internship 2024 - Task Completion
 *Web Development and Designing Oasis Infobyte Internship-10th November 2024 To 10th December 2024*
+
 This repository contains the completed tasks for the Oasis Infobyte Internship program in November 2024. Below, you'll find the details of each task, the steps taken for completion, and the outcomes.
 
 # Introduction
