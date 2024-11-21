@@ -18,7 +18,7 @@ Designed a responsive landing page using HTML and CSS, focusing on layout, styli
  
 1.Structured the page with header, sections, and footer using HTML.
 
-2.Styled the layout with CSS (flexbox, grid, colors, and spacing).
+2.Styled the layout with CSS.
 
 3.Added responsiveness for different screen sizes.
 
