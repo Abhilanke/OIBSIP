@@ -22,7 +22,7 @@ Designed a responsive landing page using HTML and CSS, focusing on layout, styli
 
 3.Added responsiveness for different screen sizes.
 
- Outcome:
+Outcome:
  
 Created a clean, visually appealing landing page with proper alignments, color palette, and responsiveness.
 
